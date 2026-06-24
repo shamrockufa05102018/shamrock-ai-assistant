@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.superpowers/
+docs/superpowers/
+*.pyc
+shamrock.db
+*.log
+*.pid
+.vercel/
